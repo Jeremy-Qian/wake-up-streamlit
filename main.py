@@ -10,9 +10,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
 
 # Streamlit app URL from environment variable (or default)
-STREAMLIT_URL = os.environ.get(
-    "STREAMLIT_APP_URL", "https://benson-mugure-portfolio.streamlit.app/"
-)
+STREAMLIT_URL = os.environ.get("STREAMLIT_APP_URL", "https://jerechat.streamlit.app/")
 
 
 def main():
