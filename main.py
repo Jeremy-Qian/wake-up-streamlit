@@ -16,6 +16,7 @@ STREAMLIT_URLS = os.environ.get(
         "https://jerechat.streamlit.app/",
         "https://rampion.streamlit.app/",
         "https://rampchat.streamlit.app/",
+        "https://rampagebot.streamlit.app/"
     ],
 )
 
